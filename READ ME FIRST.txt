@@ -1,0 +1,10 @@
+1) Run setup and go trough the installation process
+DISLAIMER: THIS IS NOT A VIRUS EVEN TOUGH WINDOS DEFENDER SAYS SO SOMETIMES
+
+2) Start your bot with the other .exe
+
+3) use !tutorial for a quick guide of all commands in live feed
+
+4) use !help for all commands you can use
+
+5) this is open source! so there are some bugs
